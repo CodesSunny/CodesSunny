@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Vikas Srivastava from INDIA,Delhi NCR
+- 👀 I’m interested in MERN 
+- 🌱 I’m currently learning Frontend
+- 💞️ I’m looking to collaborate on Fullstack MERN Projects as frontend contributor
+- 📫 How to reach me see my profile/bio
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Accomplishing project gives utmost motivation.
+- My past: In background i'm a Finance working personnel with MBA finance degree...on foreground i'm a coding enthusiast.
+- My leaning goal: Node.js,expressjs,MongoDB,AWS
